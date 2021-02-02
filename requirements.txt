@@ -1,1 +1,2 @@
 pytest==6.1.2
+azure.storage.blob==12.7.1
